@@ -1,0 +1,6 @@
+c:\users\bnguyen\documents\visual studio 2013\Projects\GemStore\GemStore\bin\GemStore.dll.config
+c:\users\bnguyen\documents\visual studio 2013\Projects\GemStore\GemStore\bin\GemStore.dll
+c:\users\bnguyen\documents\visual studio 2013\Projects\GemStore\GemStore\bin\GemStore.pdb
+c:\users\bnguyen\documents\visual studio 2013\Projects\GemStore\GemStore\obj\Debug\GemStore.csprojResolveAssemblyReference.cache
+c:\users\bnguyen\documents\visual studio 2013\Projects\GemStore\GemStore\obj\Debug\GemStore.dll
+c:\users\bnguyen\documents\visual studio 2013\Projects\GemStore\GemStore\obj\Debug\GemStore.pdb
