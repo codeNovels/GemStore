@@ -7,7 +7,7 @@ Added onHover method to change the main image to what is hovered on the thumbnai
 This GETS the information inside the js file. It is in json format
 
 <b>Specs:</b>
-This GETS the informatino inside the js file. It is in json format
+This GETS the informatinon inside the js file. It is in json format
 
 <b>Review:</b>
 This POSTS the review via the reviewCtrl and displays it via the 2way databinding
