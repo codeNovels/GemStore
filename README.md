@@ -17,4 +17,4 @@ Seperated the code into seperate HTML files using ng-include
 
 ![Picture](https://github.com/codeNovels/GemStore/blob/master/GemStorePic.PNG)
 
-Created this through codeschool.com - https://www.codeschool.com/courses/shaping-up-with-angular-js
+Created this through codeschool.com - https://www.codeschool.com/courses/shaping-up-with-angular-js 
